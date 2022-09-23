@@ -11,7 +11,9 @@ A company is concerned about potential risks to its employees due to work accide
 
 python: 3.10.4
 
-I tested 3 machine learning models: 
+### Conclusion
+
+<strong>I tested 3 machine learning models:</strong> 
 - Logistic Regression
 - Decision Tree
 - Random Forest
