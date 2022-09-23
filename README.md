@@ -18,19 +18,19 @@ I tested 3 machine learning models:
 
 ### With some data manipulation and hyperparameter tunning i get this results
 
-<strong>Logistic</strong>: 
+<br><strong>Logistic</strong>:</br> 
 
 precision 78%
 f1        84%
 accuracy  74%
 AUC       66%
 
-<strong>Decision Tree</strong>:
+<br><strong>Decision Tree</strong>:</br>
 
 accuracy 73%
 AUC      68%
 
-<strong>RandomForest</strong>:
+<br><strong>RandomForest</strong>:</br>
 
 precision 79%
 recal     94%
