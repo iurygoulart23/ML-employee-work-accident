@@ -20,10 +20,10 @@ I tested 3 machine learning models:
 
 <br><strong>Logistic</strong>:</br> 
 
-precision 78%<br></br>
-f1        84%<br></br>
-accuracy  74%<br></br>
-AUC       66%
+<br>precision 78%
+f1        84%
+accuracy  74%
+AUC       66%</br>
 
 <br><strong>Decision Tree</strong>:</br>
 
