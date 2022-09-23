@@ -20,19 +20,19 @@ I tested 3 machine learning models:
 
 <br><strong>Logistic</strong>:</br> 
 
-<br>precision 78%
-f1        84%
-accuracy  74%
-AUC       66%</br>
+precision_78%  
+F1________84%  
+accuracy__74%  
+AUC______66%
 
 <br><strong>Decision Tree</strong>:</br>
 
-accuracy 73%<br></br>
-AUC      68%
+accuracy_73%  
+AUC_____68%
 
 <br><strong>RandomForest</strong>:</br>
 
-precision 79%<br></br>
-recal     94%<br></br>
-accuracy  77%<br></br>
-AUC       69%
+precision_79%  
+F1________86%  
+accuracy__77%  
+AUC______69%
