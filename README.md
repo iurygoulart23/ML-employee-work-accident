@@ -2,6 +2,8 @@
 
 A company is concerned about potential risks to its employees due to work accidents that occurred in its production process. In this context, it decides to adopt an action plan whose main objective is to reduce the risk of accidents in its plants. As a first step, it decides to conduct an analysis to investigate the main factors that may contribute to the occurrence of this event.
 
+Data used in this project its a piece of [RAIS.gov](https://basedosdados.org/dataset/br-me-rais?bdm_table=microdados_vinculos) Brazilian government microdata of employment ties
+
 ### Libraries used:
 
 - pandas
